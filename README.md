@@ -21,26 +21,6 @@ This project is designed for beginners who want to practice real-world Data Anal
 - Visualize business trends
 - Generate actionable insights
 
----
-
-# 🛠 Python Libraries Used
-
-The following libraries were used throughout the project.
-
-## Install Python Libraries
-
-```bash
-pip install numpy pandas matplotlib seaborn jupyter
-```
-
-Or
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
 # 📚 Most Used Data Analytics Libraries
 
 ## NumPy
@@ -113,63 +93,13 @@ The following preprocessing steps were performed.
 - Checked duplicate rows
 - Removed duplicate entries
 
-### Data Type Conversion
 
-- Converted date columns
-- Converted numeric columns
-
-### Feature Engineering
-
-Created new columns such as
-
-- Month
-- Year
-- Day
-- Profit
-- Sales Category
-
-### Outlier Detection
-
-Detected unusual values using
-
-- Boxplots
-- IQR Method
-
----
 
 # 🔍 Exploratory Data Analysis (EDA)
 
 Exploratory Data Analysis helps understand patterns hidden inside the dataset.
 
 The following analyses were performed.
-
-## Overall Sales Trend
-
-- Monthly sales
-- Daily sales
-- Yearly sales
-
----
-
-## Best Selling Products
-
-Identified
-
-- Highest selling products
-- Lowest selling products
-
----
-
-## Sales by Category
-
-Compared
-
-- Electronics
-- Clothing
-- Furniture
-- Accessories
-
----
 
 ## Customer Analysis
 
